@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Engineer that graduated from Izmir Institude of Technology (IZTECH) and I'm currently working as Full-Stack Developer at OSF Digital.
+I'm a Computer Engineer that graduated from Izmir Institude of Technology (IZTECH) and I'm currently working as Full-Stack Developer at OSF Digital. This is my personal Github account.
 
 Also, I'm used to Data Structures, Computer Science and Architecture as a part of my education.
 
