@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Computer Engineering student at Izmir Institude of Technology (IZTECH) and I'm currently working with frontend technologies (Javascript, React.js etc.) to be an experienced frontend developer.
+I'm Computer Engineer graduated from Izmir Institude of Technology (IZTECH) and I'm currently working as Full-Stack Developer at OSF Digital.
 
-Also I'm used to Data Structures, Computer Science and Architecture as a part of my education.
+Also, I'm used to Data Structures, Computer Science and Architecture as a part of my education.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufhayirli/)
