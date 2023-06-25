@@ -4,7 +4,7 @@ I'm a Computer Engineer that graduated from Izmir Institude of Technology (IZTEC
 
 Also, I'm used to Data Structures, Computer Science and Architecture as a part of my education.
 
-Currently I'm working at my company account [yusufhayirliOSF](https://github.com/yusufhayirliosf)
+I'm mostly active at my company account [yusufhayirliOSF](https://github.com/yusufhayirliosf)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufhayirli/)
