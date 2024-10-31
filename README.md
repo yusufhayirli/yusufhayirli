@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I'm a Computer Engineer that graduated from Izmir Institude of Technology (IZTECH) and I'm currently working as Full-Stack Developer at OSF Digital. This is my personal Github account.
+I'm a Computer Engineer that graduated from Izmir Institude of Technology (IZTECH) and I'm currently working as Full-Stack Software Engineering. This is my personal Github account.
 
 Also, I'm used to Data Structures, Computer Science and Architecture as a part of my education.
-
-I'm mostly active at my company account [yusufhayirliOSF](https://github.com/yusufhayirliosf)
-
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufhayirli/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yusufhayirli@gmail.com)](mailto:yusufhayirli@gmail.com)
